@@ -1,5 +1,5 @@
 
-up on stuart.comoj.com as of 6/19/2015
+live at stuart.comoj.com as of 6/19/2015
 
 Allowed us to input lots of show-related data like attendance, merch sales, ticket sales, money from cash, money from credit card, etc.  and then also calculate payouts for all of us -- a complicated process because we owed a different amount to our label for each CD.  and our tour manager got a certain percentage of different items.  etc
 
